@@ -1,0 +1,24 @@
+body{
+	font-family: 'Comic Sans',helvetica,verdana,arial;
+	background: url("../img/bg2.jpg.jsf?ln=template") no-repeat center center fixed;
+	background-size: cover;
+	margin:0;
+}
+
+.bottom-space{
+	margin-bottom: 1em;
+}
+
+.top-space{
+	margin-top: 1em;
+}
+
+#page_wrapper{
+	margin: 1em;
+	min-width: 700px;
+}
+
+.ui-button {
+	background-color: rgb(255, 128, 192)!important;
+	color: rgb(255, 255, 255)!important;
+}
